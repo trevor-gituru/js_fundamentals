@@ -1,0 +1,8 @@
+Numbers, strings and boolean can be cosidered the atoms of programming
+However some data structures require more complex information
+Hence objects(molecules) are introduced which can group together different data
+types as well as objects
+We will look into a project known as weresquirrel
+An individual, let as say A, from time to time transforms into a weresquirrel
+between 8pm-10pm.He is keeping a journal of day-day things to find out what causes
+the transformation.

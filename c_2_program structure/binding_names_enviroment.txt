@@ -1,0 +1,8 @@
+They should:
+1.Contain only digits, letters, underscore or dollar sign.
+2.Should not start with a digit.
+3.Should not be keywords
+
+Environment:
+Bindings and their values that exist within a given time. At the start of a program
+it contains bindings that come with the language

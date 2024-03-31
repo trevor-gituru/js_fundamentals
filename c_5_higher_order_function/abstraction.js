@@ -1,0 +1,3 @@
+/*It is hiding details and talking about the problem at a higher level.But this
+requires one to have more knowledge on those terms as compared to when one
+fully explains a problem step by step*/

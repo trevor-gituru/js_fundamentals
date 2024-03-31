@@ -1,0 +1,8 @@
+Statements and Expressions
+Functions
+Control flow:
+1.Sequential
+2.Conditional
+3.Loop
+
+Indenting Code:- It is used to provide better readability and better structure to the code

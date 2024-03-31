@@ -1,0 +1,10 @@
+//Objects and arrays are similar to containing multiple values in a single one
+//It is instead of holding each value in a small bag one uses a larger bag to hold
+//all of them
+//Most values have properties with the exception of empty values
+//They can be accessed as value.property_name, value["property name"]
+//Objects tend to use names as their property
+//Arrays use index of their property as their names
+//Methods are functions that live in properties and usually act on the value they
+are property of
+//To iterate over an array one can use a specail for -loop (let element of array )
